@@ -12,3 +12,4 @@ http://아이피/?pin=13 이런식으로 접속하면 13번 포트가 토글 형
 * http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_esp
 * http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_esp&wr_id=3&page=2
 * http://bbangpan.tistory.com/19
+* https://hojunpark.wordpress.com/2015/09/02/esp8266-%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%B3%8D%EA%B2%8C-wifi-%EB%93%A4%EC%9D%B4%EB%8C%80%EA%B8%B0/
