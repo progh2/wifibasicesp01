@@ -11,3 +11,4 @@ http://아이피/?pin=13 이런식으로 접속하면 13번 포트가 토글 형
 * "ESP8266 SDK 프로그래밍 – WiFi 통신" - 굉장히 설명이 잘 되어 있음. http://www.hardcopyworld.com/ngine/aduino/index.php/archives/2614 
 * http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_esp
 * http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_esp&wr_id=3&page=2
+* http://bbangpan.tistory.com/19
